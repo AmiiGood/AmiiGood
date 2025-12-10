@@ -1,9 +1,8 @@
-👋 Hi, I'm Alexis
+## 👋 Hi, I'm *Alexis*
 
-I build clean, efficient, and user-focused software.
-Passionate about web development, automation, and learning new technologies.
+I build clean, efficient, and user-focused software. Passionate about web development, automation, and continuous learning.
 
-Tech I use: JavaScript • TypeScript • Python • React • Node.js
-What I do: ship projects, solve problems, and keep improving.
+**Tech:** JavaScript · TypeScript · Python · React · Node.js  
+**Focus:** shipping projects, solving problems, improving every day.
 
-📫 amiigood3009@gmail.com
+📫 Contact: amiigood3009@gmail.com

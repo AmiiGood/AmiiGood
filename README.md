@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="assets/banner-gojo.png" width="900" alt="ALEXIS — Full-stack developer. Gojo (Jujutsu Kaisen): 'Can you ship it?' → 'Nah, I'd win.' · JS · TS · Python · React · Node"/>
+<img src="assets/banner-fullstack.png" width="900" alt="ALEXIS — Full-stack developer. 'From the schema to the screen.' Gojo (Jujutsu Kaisen) · TS · JS · Python · Kotlin"/>
 
-<img src="assets/banner-guts.png" width="900" alt="ALEXIS — Backend & APIs. Guts (Berserk): 'Ship through anything · berserk mode.' · Node · Fastify · PostgreSQL · JWT"/>
+<img src="assets/banner-backend.png" width="900" alt="ALEXIS — Backend & APIs. 'Boring on purpose.' Chainsaw Man · Node · Fastify · Express · PostgreSQL"/>
 
-<img src="assets/banner-saitama.png" width="900" alt="ALEXIS — Frontend. Saitama (One Punch Man): 'One punch → one commit.' · React · TS · CSS · HTML"/>
+<img src="assets/banner-frontend.png" width="900" alt="ALEXIS — Frontend. 'Every interface starts as a sketch.' Coco (Witch Hat Atelier) · React · Next.js · Tailwind · TS"/>
 
-<img src="assets/banner-astronauts.png" width="900" alt="ALEXIS — Desktop & automation. Splash de astronautas: 'Keep building · つづく.' · Electron · Python · Node"/>
+<img src="assets/banner-desktop.png" width="900" alt="ALEXIS — Desktop & automation. 'Built for the night shift.' D (Cyberpunk: Edgerunners 2) · Electron · Python · Node"/>
 
-<img src="assets/banner-musashi.png" width="900" alt="ALEXIS — Always learning. Musashi (Vagabond): 'Master the craft · 道 · clean code is a discipline.'"/>
+<img src="assets/banner-mobile.png" width="900" alt="ALEXIS — Mobile & Android. 'Still collecting spells.' Frieren (Sousou no Frieren) · Kotlin · Compose · Android"/>
 
-<img src="assets/banner-todo.png" width="900" alt="ALEXIS — Type-safe by default. Aoi Todo (Jujutsu Kaisen): 'What's your type? — TypeScript, obviously.' · TypeScript · TSX · strict"/>
+<img src="assets/banner-typesafe.png" width="900" alt="ALEXIS — Type-safe by default. 'strict: true' Yuta &amp; Rika (Jujutsu Kaisen: Culling Game) · TypeScript · Zod"/>
 
 <br/><br/>
 
